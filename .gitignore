@@ -1,0 +1,4 @@
+# Default Ignore files for uv init project
+.venv
+.vscode
+src/model
